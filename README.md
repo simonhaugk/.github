@@ -25,7 +25,7 @@ I help founders and business owners build systems and processes that set them fr
 - Cloud & DevOps
 
 ## 🌱 Current Projects
-- [ceopreneur_labs](https://github.com/ceopreneur-labs/ceopreneur_labs): Platform for digital entrepreneurship.
+- [ceopreneur_labs](https://github.com/ceopreneur-labs/): Platform for digital entrepreneurship.
 - ...and more on my GitHub!
 
 ## 📫 How to reach me
