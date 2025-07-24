@@ -1,7 +1,7 @@
 # Hi, I'm Simon Haugk 👋
 
 ## 🚀 About Me
-Entrepreneur, developer & consultant working across several innovative companies:
+Entrepreneur, system builder & consultant working across several innovative companies:
 
 - [haugk.com](https://haugk.com) – Digital consulting & solutions
 - [ceopreneur.com](https://ceopreneur.com) – Empowering entrepreneurs
