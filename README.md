@@ -6,7 +6,6 @@ Entrepreneur, system builder & consultant working across several innovative comp
 - [haugk.com](https://haugk.com) – Digital consulting & solutions
 - [ceopreneur.com](https://ceopreneur.com) – Empowering entrepreneurs
 - [labs.ceopreneur.com](https://labs.ceopreneur.com) – Startup lab & tech incubator
-- [sh.mu](https://sh.mu) – Personal brand & experimental projects
 
 ---
 
