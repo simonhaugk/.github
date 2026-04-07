@@ -1,34 +1,60 @@
-# Hi, I'm Simon Haugk 👋
+Hi, I'm Simon 👋
 
-## 🚀 About Me
-Entrepreneur, system builder & consultant working across several innovative companies:
-
-- [haugk.com](https://haugk.com) – Digital consulting & solutions
-- [ceopreneur.com](https://ceopreneur.com) – Empowering entrepreneurs
-- [labs.ceopreneur.com](https://labs.ceopreneur.com) – Startup lab & tech incubator
+I design systems that replace operators.
 
 ---
 
-## 💡 Philosophy
-**Your company works for you, not the other way around.**  
-_Systematic liberation from operational dependency._
+## What I do
 
-I help founders and business owners build systems and processes that set them free from daily operations, making their businesses scalable and exit-ready.
+I build protocol-driven business systems that reduce founder dependency.
+
+Focus:
+- System architecture
+- AI-augmented workflows
+- Execution engines with TypeScript / Node.js
+- Multi-agent orchestration
 
 ---
 
-## 🛠️ Skills
-- Business Development & Strategy
-- Web & Software Development (Python, JavaScript, React, Next.js)
-- AI & Data Science
-- Cloud & DevOps
+## Core Thesis
 
-## 🌱 Current Projects
-- [ceopreneur_labs](https://github.com/ceopreneur-labs/): Platform for digital entrepreneurship.
-- ...and more on my GitHub!
+Most businesses break because they depend on people.
 
-## 📫 How to reach me
-- [LinkedIn](https://linkedin.com/in/haugk)
+I build systems that depend on protocols.
 
-## ⚡ Fun fact
-I love turning ideas into reality, one cup of coffee at a time ☕
+---
+
+## Current Work
+
+- CEOPRENEUR Engine V5  
+  → Multi-agent orchestration for business execution
+
+- Live News Retrieval Layer  
+  → Real-time information pipelines for AI-assisted workflows
+
+- Protocol-Driven Development (PDD)  
+  → Turning business logic into executable systems
+
+---
+
+## Stack
+
+- TypeScript / Node.js
+- Next.js
+- Convex
+- LLM workflows
+- Retrieval pipelines
+
+---
+
+## Philosophy
+
+A company is a system.
+
+If it depends on you, it's fragile.
+
+---
+
+## Contact
+
+LinkedIn
