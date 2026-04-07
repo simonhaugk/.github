@@ -52,9 +52,3 @@ I build systems that depend on protocols.
 A company is a system.
 
 If it depends on you, it's fragile.
-
----
-
-## Contact
-
-LinkedIn
